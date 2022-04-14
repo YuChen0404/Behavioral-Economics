@@ -1,18 +1,14 @@
-# Behavioral-Economics<a name="TOP"></a>
-===================
- - - - -
-
 ## 行為經濟學個人作業 ##
 
 <details>
-  <summary>作業</summary>
   
-  作業 | 檔案
+  作業 | 內容 | 連結
 ------------- | -------------
-作業一  | 	變換目錄
-作業二  | 	顯示目前的目錄
-作業三  |  建立一個新目錄
-作業四  |  刪除一個裡面是空的空目錄
-作業五  |  複製
-作業六  |  移動
+作業一  |  資料集  |https://drive.google.com/file/d/1rIzjdKRWS-MUK2bJ41xCrsyDwPrQDsa-/view?usp=sharing
+作業一  |  視覺化  |
+作業二  | 	
+作業三  |  
+作業四  |  
+作業五  |  
+作業六  |  
 </details>
